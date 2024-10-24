@@ -1,0 +1,3 @@
+"Acesta este continutul fisierului 1" 
+"Am adaugat o noua linie in fisierul 1" 
+"Fisierul1 a suferit modificari." 
